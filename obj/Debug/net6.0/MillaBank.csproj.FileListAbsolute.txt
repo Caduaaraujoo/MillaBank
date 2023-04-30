@@ -1,0 +1,15 @@
+/home/cadu/dev/MillaBank/bin/Debug/net6.0/MillaBank
+/home/cadu/dev/MillaBank/bin/Debug/net6.0/MillaBank.deps.json
+/home/cadu/dev/MillaBank/bin/Debug/net6.0/MillaBank.runtimeconfig.json
+/home/cadu/dev/MillaBank/bin/Debug/net6.0/MillaBank.dll
+/home/cadu/dev/MillaBank/bin/Debug/net6.0/ref/MillaBank.dll
+/home/cadu/dev/MillaBank/bin/Debug/net6.0/MillaBank.pdb
+/home/cadu/dev/MillaBank/obj/Debug/net6.0/MillaBank.csproj.AssemblyReference.cache
+/home/cadu/dev/MillaBank/obj/Debug/net6.0/MillaBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/cadu/dev/MillaBank/obj/Debug/net6.0/MillaBank.AssemblyInfoInputs.cache
+/home/cadu/dev/MillaBank/obj/Debug/net6.0/MillaBank.AssemblyInfo.cs
+/home/cadu/dev/MillaBank/obj/Debug/net6.0/MillaBank.csproj.CoreCompileInputs.cache
+/home/cadu/dev/MillaBank/obj/Debug/net6.0/MillaBank.dll
+/home/cadu/dev/MillaBank/obj/Debug/net6.0/ref/MillaBank.dll
+/home/cadu/dev/MillaBank/obj/Debug/net6.0/MillaBank.pdb
+/home/cadu/dev/MillaBank/obj/Debug/net6.0/MillaBank.genruntimeconfig.cache
